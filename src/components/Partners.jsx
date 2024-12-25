@@ -3,11 +3,26 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
 const partners = [
-  { name: "Partner 1", logo: "/path-to-logo-1.png" },
-  { name: "Partner 2", logo: "/path-to-logo-2.png" },
-  { name: "Partner 3", logo: "/path-to-logo-3.png" },
-  { name: "Partner 4", logo: "/path-to-logo-4.png" },
-  { name: "Partner 5", logo: "/path-to-logo-5.png" },
+  {
+    name: "Partner 1",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google-2015-logo.svg",
+  },
+  {
+    name: "Partner 2",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png",
+  },
+  {
+    name: "Partner 3",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png",
+  },
+  {
+    name: "Partner 4",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+  },
+  {
+    name: "Partner 5",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+  },
 ];
 
 export default function Partners() {

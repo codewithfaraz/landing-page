@@ -41,7 +41,7 @@ export default function CTA() {
             className="relative"
           >
             <img
-              src="/path-to-your-image.jpg"
+              src="https://images.unsplash.com/photo-1642790551116-18bc800c7014"
               alt="Trading Platform"
               className="w-full rounded-2xl shadow-xl"
             />
